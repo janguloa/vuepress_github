@@ -1,4 +1,7 @@
 module.exports = {
+  publicPath: process.env.NODE_ENV === 'production'
+  ? '/my-project/'
+  : '/',
     title: 'PanaUpgrade',
     description: 'Just playing around',
     themeConfig: {
