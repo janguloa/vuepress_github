@@ -3,7 +3,7 @@ module.exports = {
     description: 'Just playing around',
     themeConfig: {
         nav: [
-          { text: 'Home', link: '/' },
+          { text: 'Casa', link: '/' },
           { text: 'Guía', link: '/guia/' },
           { text: 'Canal youtube', link: 'https://www.youtube.com/watch?v=zk6BwgxnBtE' }
         ],
