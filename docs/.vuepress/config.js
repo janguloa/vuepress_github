@@ -1,7 +1,5 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production'
-  ? '/my-project/'
-  : '/',
+    base: 'vuepress_github/.',
     title: 'PanaUpgrade',
     description: 'Just playing around',
     themeConfig: {
