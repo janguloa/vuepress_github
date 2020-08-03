@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'PanaUpgrade',
+    title: 'Pana Upgrade 2',
     description: 'Just playing around',
     themeConfig: {
         nav: [
