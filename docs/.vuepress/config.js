@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/janguloa.github.io/',
+    base: 'janguloa.github.io',
     title: 'PanaUpgrade',
     description: 'Just playing around',
     themeConfig: {
