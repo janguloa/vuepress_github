@@ -23,7 +23,7 @@ deploy:
     skip-cleanup: true
     local_dir: docs/.vuepress/dist
     github-token: $GITHUB_TOKEN
-    repo: janguloa/janguloa.github.io
+    repo: /janguloa/janguloa.github.io/
     keep-history: true
     target-branch: master
     on:
