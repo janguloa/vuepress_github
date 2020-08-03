@@ -1,5 +1,5 @@
 module.exports = {
-    base: 'vuepress_github/.',
+    base: '/janguloa.github.io/',
     title: 'PanaUpgrade',
     description: 'Just playing around',
     themeConfig: {
