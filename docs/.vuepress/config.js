@@ -1,6 +1,6 @@
 module.exports = {
     title: 'Pana Upgrade 2',
-    description: 'Just playing around',
+    description: 'Planenado todo',
     themeConfig: {
         nav: [
           { text: 'inicio', link: '/' },
