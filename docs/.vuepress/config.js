@@ -1,6 +1,7 @@
 module.exports = {
+    base: "/janguloa.github.io",
     title: 'Pana Upgrade 2',
-    description: 'Planenado todo',
+    description: 'Tiene que servir todo',
     themeConfig: {
         nav: [
           { text: 'inicio', link: '/' },
